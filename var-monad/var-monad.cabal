@@ -28,5 +28,5 @@ library
         Control.Monad.Var
         Control.Monad.Var.Class
     build-depends:
-        base ^>= 4.15 || ^>= 4.16 || ^>= 4.17
+        base ^>= 4.15 || ^>= 4.16 || ^>= 4.17 || ^>= 4.18
       , stm
